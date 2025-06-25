@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Conversion } from '../Models/conversionModel.js';
+import Conversion from '../Models/conversionModel.js';
 import { sendConversionEmail } from '../Services/emailService.js';
 import { logger } from '../Utils/logger.js';
 

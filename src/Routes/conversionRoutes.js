@@ -1,5 +1,5 @@
 import express from 'express';
-import { convertCurrency } from '../Controllers/conversionController.js';
+import { convertCurrency, getAllConversions } from '../Controllers/conversionController.js';
 import { validateConversionRequest } from '../Validations/conversionValidation.js';
 import { validate } from '../Middleware/validate.js';
 
@@ -8,7 +8,6 @@ const router = express.Router();
 
 
 router.post('/convert', validateConversionRequest, validate, convertCurrency);
-import { validateConversionRequest } from '../Validations/conversionValidation.js';
-import { validate } from '../Middleware/validate.js';
+router.get('/conversions', getAllConversions);
 
 export default router;

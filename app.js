@@ -1,5 +1,5 @@
 import express from 'express';
-import { connectMySQL } from './Config/database.js';
+import { connectMySQL } from './src/config/database.js';
 import converterRoutes from './src/Routes/conversionRoutes.js';
 import { errorHandler } from './src/Middleware/errorHandler.js';
 
