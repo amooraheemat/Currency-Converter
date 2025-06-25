@@ -1,0 +1,33 @@
+{
+  "name": "currency-conveter",
+  "version": "1.0.0",
+  "description": "An API for converting different Currencies",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amooraheemat/Currency-Conveter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amooraheemat/Currency-Conveter/issues"
+  },
+  "homepage": "https://github.com/amooraheemat/Currency-Conveter#readme",
+  "devDependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
+    "express-validator": "^7.2.1",
+    "mysql2": "^3.14.1",
+    "nodemailer": "^7.0.3",
+    "sequelize": "^6.37.7",
+    "winston": "^3.17.0"
+  }
+}
