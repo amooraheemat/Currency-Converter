@@ -1,7 +1,7 @@
 {
   "name": "currency-conveter",
   "version": "1.0.0",
-    "type": "module",
+  "type": "module",
   "description": "An API for converting different Currencies",
   "main": "app.js",
   "scripts": {
