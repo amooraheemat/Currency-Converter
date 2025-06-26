@@ -92,7 +92,7 @@ export const convertCurrency = async (req, res) => {
         });
     }    
     catch (error) {
-        console.error(error. message);
+        console.error(error);
        
         logger. error({
              message: 'Conversion failed',
@@ -128,7 +128,7 @@ export const getAllConversions = async (req, res) => {
             data: rows
         });
     } catch (error) {
-        console.error(error.message);
+        console.error(error);
         res.status(500).json({
             status: false,
             message: 'Unable to get all conversions',

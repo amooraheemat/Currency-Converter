@@ -1,3 +1,12 @@
-{"error":"Access denied for user 'root'@'localhost' (using password: YES)","level":"error","message":"Conversion failed","timestamp":"2025-06-25T15:41:45.211Z"}
-{"error":"Access denied for user 'root'@'localhost' (using password: YES)","level":"error","message":"Conversion failed","timestamp":"2025-06-25T18:39:31.016Z"}
-{"error":"Access denied for user 'root'@'localhost' (using password: YES)","level":"error","message":"Conversion failed","timestamp":"2025-06-25T18:43:42.358Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T09:36:02.297Z","toCurrency":"NGN"},"timestamp":"2025-06-26T09:36:02.301Z"}
+{"error":"Validation error","level":"error","message":"Conversion failed","timestamp":"2025-06-26T09:46:07.071Z"}
+{"error":"Validation error","level":"error","message":"Conversion failed","timestamp":"2025-06-26T09:47:47.630Z"}
+{"error":"Validation error","level":"error","message":"Conversion failed","timestamp":"2025-06-26T09:51:52.332Z"}
+{"error":"Validation error","level":"error","message":"Conversion failed","timestamp":"2025-06-26T09:54:28.298Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T10:02:20.511Z","toCurrency":"NGN"},"timestamp":"2025-06-26T10:02:20.514Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T10:02:26.796Z","toCurrency":"NGN"},"timestamp":"2025-06-26T10:02:26.796Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T10:09:58.587Z","toCurrency":"NGN"},"timestamp":"2025-06-26T10:09:58.587Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T10:15:52.936Z","toCurrency":"NGN"},"timestamp":"2025-06-26T10:15:52.941Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T10:20:01.827Z","toCurrency":"NGN"},"timestamp":"2025-06-26T10:20:01.830Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T10:28:55.161Z","toCurrency":"NGN"},"timestamp":"2025-06-26T10:28:55.165Z"}
+{"level":"info","message":{"amount":100,"convertedAmount":"154978.00000","email":"omotayoamoo29@gmail.com","fromCurrency":"USD","rateUsed":1549.78,"timestamp":"2025-06-26T11:16:32.432Z","toCurrency":"NGN"},"timestamp":"2025-06-26T11:16:32.434Z"}

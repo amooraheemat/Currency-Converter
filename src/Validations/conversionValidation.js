@@ -13,7 +13,7 @@ export const validateConversionRequest = [
 
   body('amount')
     .notEmpty().withMessage('amount is required')
-    .isFloat({ gt: 0 }).withMessage('amount must be a positive number'),
+    .isDecimal({ gt: 0 }).withMessage('amount must be a positive number'),
 
   body('email')
     .optional()
