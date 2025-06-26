@@ -88,7 +88,7 @@ EMAIL_HOST=smtp.example.com
 EMAIL_PORT=587
 EMAIL_USERNAME=your_email@example.com
 EMAIL_PASSWORD=your_email_password
-EMAIL_FROM="Currency API <noreply@currencyapi.com>"
+EMAIL_FROM="Currency API <omotayoamoo29@gmail.com>"
 NODE_ENV=development
 4️⃣ Start the server
 bash
@@ -159,7 +159,7 @@ All sensitive keys are excluded from public files using .gitignore
 🧪 Testing (with Postman)
 Open Postman and create a new request.
 
-Set request type to POST and use URL: http://localhost:3000/api/v1/convert
+Set request type to POST and use URL: http://localhost:3006/api/v1/convert
 
 In Body → raw → JSON, paste:
 
