@@ -4,10 +4,10 @@
 # DEPENDENCIES
 node_modules/
 package-lock.json
-package.json
+
 
 
 #LOGS
-*.logs
+*.log
 
-#
+
