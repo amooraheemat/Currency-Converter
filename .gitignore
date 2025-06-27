@@ -1,2 +1,11 @@
+# ENVIRONMENT VARIABLES
 .env
+
+# DEPENDENCIES
 node_modules
+package-lock.json
+
+#LOGS
+.logs
+
+#
