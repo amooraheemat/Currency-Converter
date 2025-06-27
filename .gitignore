@@ -8,6 +8,6 @@ package-lock.json
 
 
 #LOGS
-*conversions.log
+logs/
 
 
